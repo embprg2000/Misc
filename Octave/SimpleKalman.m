@@ -9,6 +9,7 @@ clear all
 a = 0.75;
 r = 200;
 
+% Observed values
 z = [1100 586 444 405 454 69 302 226 -36 -2];
 
 % Initialize arrays
@@ -39,4 +40,5 @@ g(1) = g(2);
   
 t = 1:length(x);
 plot(t,x,t,xh,t,z)
+legend('x','xh','z')
 grid on
