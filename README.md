@@ -2,7 +2,7 @@
 
 This directory contain some example programs and scripts.
 
-*** Octave
+<h1>*** Octave</h1><br><hr><br>
 
 Octave is a great program when you don't have access to matlab. When
 I can choose between matlab and octave I would take matlab anytime.
@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/GNU_Octave
 
 http://octave.sourceforge.net/packages.php
 
-*** wxMaxima
+<h1>*** wxMaxima</h1><br><hr><br>
 wxMaxima is a document based interface for the computer algebra system
 Maxima. Maxima is a system for the manipulation of symbolic and numerical
 expressions, including differentiation, integration, Taylor series,
